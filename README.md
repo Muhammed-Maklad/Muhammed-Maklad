@@ -11,7 +11,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a student at the Faculty of Computer and Information Science in Mansoura, Egypt.
+- 🎓 Studying at the Faculty of Computer and Information Science, Mansoura , Egypt.
+- 💻 Machine Learning Enthusiast.
+- 📚 Constantly learning and exploring new technologies.
+- 🤝 Open to collaborate on interesting projects.
 
 
 <h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width=45> Tech Stack</h2>
