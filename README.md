@@ -21,6 +21,10 @@
 <a href="https://t.me/Mo7amed_Maklad" target="_blank"><img src="https://img.shields.io/badge/-My%20Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="Object Oriented Programming" src="https://img.shields.io/badge/Object%20Oriented%20Programming-EE4C2C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="Data Structures" src="https://img.shields.io/badge/Data%20Structures-FF6B6B?style=flat-square&logo=treehouse&logoColor=white" />
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-0081CB?style=flat-square&logo=code&logoColor=white" />
 ![C#](https://img.shields.io/badge/-C#%20-05122A?style=flat&logo=C#)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -30,7 +34,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhamed Maklad&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
 <br>
 <a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
