@@ -27,8 +27,8 @@
 
 <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
 
-<a href="https://www.linkedin.com/in/muhammed-gamal-61337b260/" target="_blank"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Mo7amed_Maklad" target="_blank"><img src="https://img.shields.io/badge/-My%20Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammed-gamal-61337b260/" target="_blank"><img src="https://img.shields.io/badge/-%20LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/Mo7amed_Maklad" target="_blank"><img src="https://img.shields.io/badge/-%20Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 
@@ -36,7 +36,4 @@
 
 
 
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+
