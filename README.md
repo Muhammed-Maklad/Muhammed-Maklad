@@ -36,7 +36,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🎓 Studying at the Faculty of Computer and Information Science, Mansoura, Egypt
+- 🎓 Graduate from the Faculty of Computer and Information Science, Mansoura, Egypt in 2025.
 - 🔭 I'm currently working on **Machine Learning Projects**
 - 🌱 I'm currently learning **Deep Learning & Neural Networks**
 - 👯 I'm looking to collaborate on **AI Research Projects**
@@ -76,34 +76,6 @@
   </h2>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>Machine Learning</td>
-      <td>
-        <img src="https://progress-bar.dev/90/?width=400&color=4CAF50" alt="90%">
-      </td>
-    </tr>
-    <tr>
-      <td>Data Analysis</td>
-      <td>
-        <img src="https://progress-bar.dev/85/?width=400&color=2196F3" alt="85%">
-      </td>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td>
-        <img src="https://progress-bar.dev/95/?width=400&color=9C27B0" alt="95%">
-      </td>
-    </tr>
-    <tr>
-      <td>Deep Learning</td>
-      <td>
-        <img src="https://progress-bar.dev/80/?width=400&color=FF5722" alt="80%">
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
