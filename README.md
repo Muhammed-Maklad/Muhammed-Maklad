@@ -118,12 +118,14 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Muhammed-Maklad/Project-1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Maklad&repo=Project-1&theme=tokyonight&hide_border=true&border_radius=10" alt="Project 1" />
-  </a>
-  <a href="https://github.com/Muhammed-Maklad/Project-2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Maklad&repo=Project-2&theme=tokyonight&hide_border=true&border_radius=10" alt="Project 2" />
-  </a>
+<a href="https://github.com/Muhammed-Maklad/DEPI-Graduation-Project">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Maklad&repo=DEPI-Graduation-Project&theme=tokyonight&hide_border=true&border_radius=10" alt="DEPI Graduation Project" />
+</a>
+
+<!-- <a href="https://github.com/Muhammed-Maklad/Bank-Churn-Classification">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Maklad&repo=Bank-Churn-Classification&theme=tokyonight&hide_border=true&border_radius=10" alt="Bank Churn Classification" />
+</a> -->
+
 </div>
 
 <div align="center">
