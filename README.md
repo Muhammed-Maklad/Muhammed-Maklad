@@ -42,7 +42,7 @@
 - 👯 I'm looking to collaborate on **AI Research Projects**
 - 💬 Ask me about anything related to **Python, ML, and Data Science**
 - 📫 How to reach me: Check the **Connect With Me** section below
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
